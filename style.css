@@ -1,0 +1,24 @@
+  #chat1 {
+      border-radius: 15px;
+      height: 600px;
+      overflow: hidden;
+    }
+    #chat-messages {
+      height: 100%;
+      overflow-y: auto;
+      padding-bottom: 100px; /* Space for textarea */
+    }
+    .chat-footer {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+    }
+    .chat-button {
+        display: none; 
+        position: fixed; 
+        bottom: 80px;
+        right: 20px; 
+        z-index: 999; 
+        width: 350px;
+    }

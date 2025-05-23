@@ -3,6 +3,12 @@ A responsive and interactive live chatbot interface built with Bootstrap 5, feat
 
 ---
 
+## 🚀 Preview
+
+
+https://github.com/user-attachments/assets/17a61cc7-fc0d-4be3-ade9-5aa6459f7d43
+
+
 ## 🚀 Features
 
 - ✅ Clean & modern UI using **Bootstrap 5**

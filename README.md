@@ -61,6 +61,6 @@ Some chatbot responses include images sourced from [Pexels](https://www.pexels.c
 Images are used for demonstration purposes only. All rights belong to their respective photographers.
 
 Developed by hetpatel
-🌍 Website: techvariables.in
+🌍 Website: https://www.techvariables.in
 📧 Email: info@techvariables.in
 📦 GitHub: @thehetpatel
